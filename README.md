@@ -63,6 +63,23 @@ This repository exists to share and preserve these works of mine.
 - [Github Profile Banner](./2026/touhou/github_banner/README.md)
 - [Merry wishes you a 'Merry' Christmas](./2026/touhou/merry_merrying_christmas/README.md)
 
+## Gallery of Shame
+
+>[!WARNING]
+>The content in this repository are deemed 17+ due to potential discriminative remarks
+>and suggestive materials
+
+As the warning above suggested, this separate repository houses some of the more
+"suggestive" works that I don't feel like it's appropriate to be in here.
+
+The site may occassionally go down because it's a **self-hosted** git instance
+running Forgejo.
+
+I have one condition before entering this wicked realm, take what you see
+**with a grain of salt**, they're satire works.
+
+Here's the link: [https://git.horstaufmental.cc/Horstaufmental/gallery-of-shame](https://git.horstaufmental.cc/Horstaufmental/gallery-of-shame)
+
 ## License
 
 Unless specified otherwise, every piece of works here are licensed
