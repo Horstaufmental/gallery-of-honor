@@ -10,7 +10,7 @@ Date: 2026/09/01
 
 # Description
 
-A profile picture that I've set on my Github and Tiktok profiel from `2026-09-01`
+A profile picture that I've set on my Github and Tiktok profile from `2026-09-01`
 to `2026-10-06`.
 
 The description I gave was:
